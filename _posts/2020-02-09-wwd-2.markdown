@@ -1,0 +1,16 @@
+---
+layout: default
+img: post2.png
+category: Services
+title: Volunteering
+description: |
+---
+  Volunteer regularly with local soup kitchens and projects.
+  <br /><br />
+  <b>Accomplished: </b>
+  <br /> Regularly volunteer at siloam mission
+  <br /> Host charity breakfasts and local bake sales
+  <br /><br />
+  <b>Current project:</b>
+  Raising money for Oak table located Pulford St. They’re doing renovations and are in need of supplies to make a safe place for individuals in need.  
+

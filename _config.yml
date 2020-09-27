@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://umrotaract.ca
+title: UM Rotaract
+email: s.rotaractclub@gmail.com
+author: Isham
+description: > # "This description will be visible in search results and flex boxes etc. 
+  The University of Manitoba Rotaract Club's Website 
+copyright: 'Copyright &copy; 2020 um.srotaract. All Rights Reserved.'
+credits: 'University of Manitoba Rotaract Club'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/um.srotaract/
+  - title: mail
+    url: mailto:s.rotaractclub@gmail.com
+  - title: facebook
+    url: https://www.facebook.com/FortGarryRotary/
