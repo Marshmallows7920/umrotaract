@@ -1,0 +1,12 @@
+---
+layout: default
+img: hippo.jpg
+category: Services
+title: Hippo Rollers
+description: water delivery system|
+---
+A hippo roller is a tool designed to maximize efficiency, allowing young women more time to focus on things like school, and to minimize back and neck pain when carrying large amounts of water. Hopefully improving their quality of life.
+<br /><br />
+Thank you Mr.Reddy of the Rotary club for introducing us to this project.
+<br /><br />
+We will be holding a fundraiser for this project by putting together some gift baskets.
