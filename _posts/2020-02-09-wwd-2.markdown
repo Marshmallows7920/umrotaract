@@ -5,7 +5,7 @@ category: Services
 title: Volunteering
 description: |
 ---
-  Volunteer regularly with local soup kitchens and projects.
+  Volunteering with local soup kitchens and projects.
   <br /><br />
   <b>Accomplished: </b>
   <br /> Regularly volunteer at siloam mission
